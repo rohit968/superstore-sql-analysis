@@ -2,9 +2,11 @@
 
 SQL Server analysis of US retail sales: where discounts turn sales into losses.
 
+**Status:** in progress, updated weekly.
+
 ## Dataset
 
-Superstore sales data from Kaggle: [add Kaggle link here]
+[Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) from Kaggle: about 10,000 order lines from a US retailer, 2014–2017.
 
 The CSV isn't stored in this repo. Download it from the Kaggle page to run the scripts.
 
